@@ -1,8 +1,9 @@
-p{background-color: red;
-height: 100px; width: 100px;}
+p{
+    background-color: red;
+    height: 100px; width: 100px;}
 .paragraf1{
     background-color: blue;
 }
 .paragraf2{
-   background-color: rgba(0, 0, 0, 0.5) 
+     opacity: 0.5;
 }
